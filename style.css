@@ -1,0 +1,17 @@
+body{
+
+    background-color: grey;
+    color: white;
+
+}
+
+@media (max-width: 600px) {
+
+    #imagem {  
+
+        width: 60px ;
+        height: 40px;
+    }
+
+}
+  
